@@ -1,7 +1,7 @@
-package factorymethod.factory;
+package wangyaofeng.factorymethod.factory;
 
-import factorymethod.product.HtmlParser;
-import factorymethod.product.Parser;
+import wangyaofeng.factorymethod.product.HtmlParser;
+import wangyaofeng.factorymethod.product.Parser;
 
 public class HtmlParserFactory implements ParserFactory {
     @Override
