@@ -1,4 +1,4 @@
-package wangyaofeng.factorymethod.product;
+package simplest.factorymethod.product;
 
 public class PdfParser implements Parser {
     @Override

@@ -1,6 +1,6 @@
-package wangyaofeng.factorymethod.factory;
+package simplest.factorymethod.factory;
 
-import wangyaofeng.factorymethod.product.Parser;
+import simplest.factorymethod.product.Parser;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package wangyaofeng.builder;
+package simplest.builder;
 
 import lombok.Data;
 

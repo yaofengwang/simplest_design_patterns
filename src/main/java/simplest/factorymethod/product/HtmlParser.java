@@ -1,4 +1,4 @@
-package wangyaofeng.factorymethod.product;
+package simplest.factorymethod.product;
 
 public class HtmlParser implements Parser {
     @Override

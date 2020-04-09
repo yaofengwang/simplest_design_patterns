@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-package wangyaofeng.singleton;
+package simplest.singleton;
 
 /**
  * 线程安全、双检查锁的单例模式

@@ -1,7 +1,7 @@
-package wangyaofeng.factorymethod.factory;
+package simplest.factorymethod.factory;
 
-import wangyaofeng.factorymethod.product.Parser;
-import wangyaofeng.factorymethod.product.PdfParser;
+import simplest.factorymethod.product.Parser;
+import simplest.factorymethod.product.PdfParser;
 
 public class PdfParserFactory implements ParserFactory {
     @Override
