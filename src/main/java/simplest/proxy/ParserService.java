@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @NoArgsConstructor
-public  class ParserService {
+public class ParserService {
 
     public String parse(String pdf){
       log.debug("ParserService parse start");
